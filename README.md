@@ -2,9 +2,9 @@
 
 # 👋 Salut, je suis Dylan Weinachter
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Développeur+Full+Stack;Passionné+de+Code+et+d'Open+Source;Toujours+en+train+d'apprendre!&font=Fira+Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=22)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DevOps+Engineer;Cloud+%26+Infrastructure+Specialist;Kubernetes+%7C+Terraform+%7C+Python&font=Fira+Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=22)](https://github.com/DenverCoder1/readme-typing-svg)
 
-### 💻 Développeur passionné | 🚀 Open Source Enthusiast | 🎯 Problem Solver
+### 💻 DevOps Engineer | ☁️ Cloud Architecture | 🚀 Infrastructure as Code
 
 </div>
 
@@ -14,14 +14,19 @@
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### 💻 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### 🚀 DevOps & Tools
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -37,7 +42,7 @@
 
 ---
 
-## 🐍 Snake eating my contributions
+## 🐍 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Glutenfree69/Glutenfree69/output/github-snake-dark.svg" />
@@ -94,7 +99,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dylan-weinachter)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dylan.weinachter@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dylan.weinachter@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Glutenfree69)
 
 </div>
