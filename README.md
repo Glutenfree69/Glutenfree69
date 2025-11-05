@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Salut, je suis Dylan Weinachter
+# 👋 Hello
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DevOps+Engineer;Cloud+%26+Infrastructure+Specialist;Kubernetes+%7C+Terraform+%7C+Python&font=Fira+Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=22)](https://github.com/DenverCoder1/readme-typing-svg)
 
@@ -16,7 +16,6 @@
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
