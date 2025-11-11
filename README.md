@@ -38,13 +38,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Glutenfree69/Glutenfree69/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Glutenfree69/Glutenfree69/output/github-snake.svg" />
 </picture>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Glutenfree69&theme=react-dark&hide_border=true&area=true)
-
-</div>
