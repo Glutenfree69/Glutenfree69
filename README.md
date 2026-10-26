@@ -1,13 +1,3 @@
-<div align="center">
-
-# 👋 Hello
-
-### 💻 DevOps Engineer | ☁️ Cloud Architecture | 🦀 Rust Enthusiast
-
-</div>
-
----
-
 ## 🐍 Contributions
 
 <picture>
